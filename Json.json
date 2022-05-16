@@ -1,0 +1,103 @@
+{
+    "Empresa": {
+        "cnpj": "NULL",
+        "nome": "NULL",
+        "AnoDeFundacao": "NULL",
+        "QuantidadeDeFuncionarios": "NULL"
+    },
+    "Funcionario": {
+        "cpf": "NULL",
+        "nome": "NULL",
+        "email": "NULL",
+        "QuantidadeDeDependentes": "NULL",
+        "cep " : "NULL",
+	    "logradouro" : "NULL",
+	    "nro" : "NULL"
+    },
+    "Dependent": {
+        "documento": "NULL",
+        "nome": "NULL",
+        "GrauDeParentesco": "NULL",
+        "idade": "NULL"
+    },
+
+    "Empresa1": {
+        "cnpj": 1800022,
+        "nome": "Bruninho Enterprises",
+        "AnoDeFundacao": 1980,
+        "QuantidadeDeFuncionarios": 4
+    },
+
+    "Funcionario_Bruno": {
+        "cpf": 12515969070,
+        "nome": "Bruno silva de Avila",
+        "email": "bruno.silva.avila@hotmail.com",
+        "QuantidadeDeDependentes": 3,
+        "cep " : 90450090,
+	    "logradouro" : "Rua Barão de Ubá",
+	    "nro" : 708
+    },
+    "Funcionario_Felipe": {
+        "cpf": 125310264059,
+        "nome": "Felipe Rosa Ferreira",
+        "email": "feliperosagatinho123@gmail.com",
+        "QuantidadeDeDependentes": 1,
+        "cep " : 90450100,
+	    "logradouro" : "Rua Carlos Gardel",
+	    "nro" : 112
+    },
+    "Funcionario_Sophia": {
+        "cpf": 52512031045,
+        "nome": "Sophia Chiabben Furini",
+        "email": "eataldasophiazinha@hotmail.com",
+        "QuantidadeDeDependentes": 2,
+        "cep " : 90050320,
+	    "logradouro" : "Rua da República",
+	    "nro" : 76
+    },
+    "Funcionario_Derick": {
+        "cpf": 31002781564,
+        "nome": "Derick Juan Ignacio",
+        "email": "DerickJuan@gmail.com",
+        "QuantidadeDeDependentes": 0,
+        "cep " : 91050001,
+	    "logradouro" : "Avenida Panamericana",
+	    "nro" : 943
+    },
+    "DependenteBruno1": {
+        "documento": 33122245678,
+        "nome": "Augusto Johnson Avila",
+        "GrauDeParentesco": "filho",
+        "idade": 5
+    },
+    "DependenteBruno2": {
+        "documento": 21032050127,
+        "nome": "Fernanda Johnson Avila",
+        "GrauDeParentesco": "cônjuge",
+        "idade": 27
+    },
+    "DependenteBruno3": {
+        "documento": 73133246678,
+        "nome": "Luana Johnson Avila",
+        "GrauDeParentesco": "filha",
+        "idade": 9
+    },
+    "DependenteFelipe1": {
+        "documento": 31022021127,
+        "nome": "Manuela Ferreira Ferreira",
+        "GrauDeParentesco": "cônjuge",
+        "idade": 22
+    },
+    "DependenteSophia1": {
+        "documento": 22253206426,
+        "nome": "Joana Silva Furini",
+        "GrauDeParentesco": "filha",
+        "idade": 10
+    },
+    "DependenteSophia2": {
+        "documento": 66542067813,
+        "nome": "Micaela Silva Furini",
+        "GrauDeParentesco": "filha",
+        "idade": 15
+    }
+}
